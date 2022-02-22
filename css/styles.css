@@ -148,6 +148,7 @@ p {
   display: flex;
   justify-content: space-between;
   margin: 5%;
+  flex-wrap: wrap;
 }
 .course-col {
   flex-basis: 31%;
